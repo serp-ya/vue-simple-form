@@ -1,3 +1,4 @@
+Gihtub Pages demo: https://serp-ya.github.io/vue-simple-form/
 # vue-cli
 
 > A Vue.js project
